@@ -15,10 +15,7 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Awards"
-    url: /awards/
-
-  - title: "Blogs"
+  - title: "Blog"
     url: /year-archive/
 
   - title: "Contact"
