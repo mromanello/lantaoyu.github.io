@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to view my Curriculum Vitae [PDF]](/files/CV_romanello.pdf)
+[Click to view my Curriculum Vitae [PDF]](/files/CV_Romanello.pdf)
