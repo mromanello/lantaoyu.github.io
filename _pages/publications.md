@@ -1,5 +1,5 @@
 ---
-title: "Publications [Google Scholar](https://scholar.google.com/citations?hl=en&user=32hXhy4AAAAJ)"
+title: "Publications [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=32hXhy4AAAAJ)"
 permalink: /publications/
 author_profile: true
 ---
@@ -7,7 +7,7 @@ author_profile: true
 ## Citation mining and analysis
 
 <b>[Exploring Intertextuality in Classics through Citation Networks](http://mromanello.github.io/publication/dhq-citation-networks)</b> <br>
-<b>Matteo Romanello</b>. <i>DHQ 10(2)</i>. 
+<b>Matteo Romanello</b>. <i>DHQ 10(2)</i>.
 
 <!--
 <b>[CoT: Cooperative Training for Generative Modeling](http://lantaoyu.com/publications/CoT)</b> <br>
