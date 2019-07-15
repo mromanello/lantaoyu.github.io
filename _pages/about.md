@@ -21,4 +21,4 @@ Before joining the EPFL I worked as a teaching fellow at the University of Rosto
 
 # Recent News
 
-* TBD
+* On July 9 2019, my colleagues Maud Ehrmann (EPFL), Simon Clematide (UZH) and I ran a tutorial on [Named Entity Processing for Digital Humanities](https://impresso.github.io/named-entity-tutorial-dh2019/) at the [DH 2019 conference](https://dh2019.adho.org/). The teaching materials are available in the [GitHub repo](https://github.com/impresso/named-entity-tutorial-dh2019).
