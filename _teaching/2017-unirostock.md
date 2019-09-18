@@ -5,7 +5,7 @@ type: "MA course, intensive seminar"
 permalink: /teaching/2017-unirostock
 venue: "University of Rostock, Philosophy Faculty"
 date: 2017-11-10
-location: "City, Country"
+location: "Rostock, Germany"
 ---
 
 ## Description
