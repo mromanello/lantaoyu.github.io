@@ -2,7 +2,7 @@
 title: "Named Entity Processing for Digital Humanities
 (Tutorial)"
 collection: teaching
-type: "Conference tutorial"
+type: "conference tutorial"
 permalink: /teaching/ne-tutorial-dh2019
 venue: "DH 2019"
 date: 2012-01-01
@@ -15,4 +15,3 @@ location: "Utrecht, Netherlands"
 - entry level/requirements
 
 ## Materials
-
