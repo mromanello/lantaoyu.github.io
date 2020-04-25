@@ -10,7 +10,7 @@ location: "Rostock, Germany"
 
 ## Description
 
-This intensive seminar (2 Semesterwochenstunde) offers an introduction to Digital Classics for philology students, and does not require any prior technical knowledge, but just a basic level of digital literacy.
+This intensive seminar (2 Semesterwochenstunde) offers an **introduction to Digital Classics for philology students**, and does not require any prior technical knowledge, but just a basic level of digital literacy.
 
 Students will first gain some historical knowledge about Digital Humanities as a discipline, and of Digital Classics as a research area and community of practice. Then, they will be introduced to various digital methods, tools and technologies that can be applied to the core activities of classical philologists (i.e. reading, writing/publishing, collating, editing, translating, annotating).
 
@@ -22,7 +22,8 @@ During the practical sessions (accounting for approx. 30% of the course time) st
 
 ## Topics covered
 
-- Digital Humanities, Digital Classics
+- introduction to Digital Humanities, Digital Classics
 - markup, markdown, Text Encoding Initiative (TEI)
 - version control with Git and GitHub
 - annotations (manual, automatic, semantic)
+
