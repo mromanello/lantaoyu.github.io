@@ -4,11 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-(See also my list of my publications on [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=32hXhy4AAAAJ))
+(See also my list of my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=32hXhy4AAAAJ))
 
 ## Citation mining and analysis
 
 <b>[Citation Mining of Humanities Journals: The Progress to Date and the Challenges Ahead](http://mromanello.github.io/publication/2019-06-30-jeps-paper)</b> <br>Giovanni Colavizza & <b>Matteo Romanello</b> <i>JEPS 4(1)</i>
+
+Linked Books: un indice citazionale per la storia di Venezia
 
 <b>[Exploring Intertextuality in Classics through Citation Networks](http://mromanello.github.io/publication/2016-01-01-dhq-citation-networks)</b> <br>
 <b>Matteo Romanello</b>. <i>DHQ 10(2)</i>.
@@ -19,6 +21,10 @@ author_profile: true
 <b>[CoT: Cooperative Training for Generative Modeling](http://lantaoyu.com/publications/CoT)</b> <br>
 Sidi Lu, <b>Lantao Yu</b>, Weinan Zhang, Yong Yu. ArXiv 2018. <i>In submission to NIPS 2018.</i>.
 -->
+
+## NLP on Historical Texts
+
+(coming soon)
 
 ## Knowledge representation
 

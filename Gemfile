@@ -23,5 +23,5 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem "hawkins"
-  gem 'jekyll-sitemap', :github => 'jekyll/jekyll-sitemap', :branch => 'master'
+  #gem 'jekyll-sitemap', :github => 'jekyll/jekyll-sitemap', :branch => 'master'
 end

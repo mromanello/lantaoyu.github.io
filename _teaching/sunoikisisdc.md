@@ -11,7 +11,7 @@ date: 2017-01-01
 
 > The **Sunoikisis DC** programme, coordinated by [Monica Berti](https://wiki.digitalclassicist.org/User:MonicaBerti) at the University of Leipzig and [Gabriel Bodard](https://wiki.digitalclassicist.org/User:GabrielBodard) at the Institute of Classical Studies, London, is an **international, collaborative teaching programme in digital humanities methods for classics and informatics students**. Seminars are delivered online via Google Hangouts, all sessions are live-streamed though YouTube ([channel](https://www.youtube.com/channel/UCjwSzxMtwDaPu6JvG1GquOw)), and all materials are made available in a [Github repository](https://github.com/SunoikisisDC/).
 >
-> Source: [Digital Classicisti Wiki](https://wiki.digitalclassicist.org/Sunoikisis_Digital_Classics)
+> Source: [Digital Classicist Wiki](https://wiki.digitalclassicist.org/Sunoikisis_Digital_Classics)
 
 **Lessons I've taught:**
 
