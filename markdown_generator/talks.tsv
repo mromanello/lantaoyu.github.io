@@ -11,8 +11,8 @@ The workshop was organized by:
 - Pietro Liuzzo (Universität Hamburg)
 - Matteo Romanello (École polytechnique fédérale de Lausanne)"
 *Cited Loci*: Citation Mining for Classics Publications at Scale	Invited talk	geneva	Journée d’étude – Université de Genève	2018-12-07	Geneva, Switzerland		"Invited talk at the symposium (journée d'étude) [""Archive, édition, digitalisation, exploration de données: autour de quelques projets numériques en cours""](https://www.unige.ch/lettres/antic/unites/latin/actualitesconfcoll/colloques/archive-edition-digitalisation-exploration-de-donnees-autour-de-quelques-projets-numeriques-en-cours/), organized by [Damien Nelis](https://www.unige.ch/lettres/antic/unites/latin/enseignants/damiennelis/) and [Lavinia Galli Milic](https://www.unige.ch/lettres/antic/unites/latin/enseignants/laviniagallimilic/)."
-Named Entity Processing for Digital Humanities	Tutorial	dh2019-tutorial	DH 2019 conference	2019-07-09	Utrecht, Netherlands		https://github.com/impresso/named-entity-tutorial-dh2019
-Digital scholarly publications as APIs: the case of the Structures of Epic Poetry compendium	Talk	dcsb2020	Digital Classicist Seminar Berlin	2020-02-18	Berlin, Germany		"**Slides:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3773330.svg)](https://doi.org/10.5281/zenodo.3773330)
+Named Entity Processing for Digital Humanities	Tutorial	dh-tutorial	DH 2019 conference	2019-07-09	Utrecht, Netherlands		https://github.com/impresso/named-entity-tutorial-dh2019
+Digital scholarly publications as APIs: the case of the Structures of Epic Poetry compendium	Talk	dcsb	Digital Classicist Seminar Berlin	2020-02-18	Berlin, Germany		"**Slides:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3773330.svg)](https://doi.org/10.5281/zenodo.3773330)
 
 ## Abstract
 
@@ -35,7 +35,7 @@ index, The Indexer 31: 36–8. (Available at <https://www.ingentaconnect.com/con
 Romanello, M. (2015). From *index locorum* to citation network: an approach to the automatic
 extraction of canonical references and its applications to the study of classical texts. Diss.
 London. DOI: [11858/00-1780-0000-002A-4537-A](http://dx.doi.org/11858/00-1780-0000-002A-4537-A)."
-Citation Mining for Classics Publications at Scale	Invited talk	enc2018	École nationale des chartes	2018-12-19	Paris, France	http://www.chartes.psl.eu/fr/actualite/citation-mining-for-classics-publications-at-scale	"*Présentation*
+Citation Mining for Classics Publications at Scale	Invited talk	enc	École nationale des chartes	2018-12-19	Paris, France	http://www.chartes.psl.eu/fr/actualite/citation-mining-for-classics-publications-at-scale	"*Présentation*
 
 Les citations canoniques sont la manière standard de citer les sources primaires et sont présentes dans les publications scientifiques en études classiques. Leur importance réside dans le fait qu'elles signalent des passages ou extraits de textes -- souvent en relation les uns avec les autres -- qui ont été étudiés et discutés par des chercheurs. Bien que les lettres classiques aient longtemps exploité ce genre de citations en créant manuellement des index des passages cités, elles sont maintenant confrontées à un nouveau défi : comment extraire et exploiter la grande quantité de citations dans des archives de publications à grande échelle ?
 
@@ -51,7 +51,7 @@ Canonical citations are the standard way of citing primary sources and are found
 1. to support the creation of an index locorum within a publication project
 2. to improve the retrieval of relevant publications from the JSTOR archive
 3. to study aspects of the scholarly reception of classical authors by using citations as a proxy of their success"
-Introducing the CLEF 2020 HIPE Shared Task: Named Entity Recognition and Linking on Historical Newspapers	Talk	hipe-ecir2020		2020-04-16	Lisbon, Portugal + zoom		"**Slides:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3754236.svg)](https://doi.org/10.5281/zenodo.3754236)
+Introducing the CLEF 2020 HIPE Shared Task: Named Entity Recognition and Linking on Historical Newspapers	Talk	hipe-ecir		2020-04-16	Lisbon, Portugal + zoom		"**Slides:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3754236.svg)](https://doi.org/10.5281/zenodo.3754236)
 
 ## Abstract 
 
