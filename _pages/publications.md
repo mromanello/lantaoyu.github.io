@@ -8,19 +8,16 @@ author_profile: true
 
 ## Citation mining and analysis
 
-<b>[Citation Mining of Humanities Journals: The Progress to Date and the Challenges Ahead](http://mromanello.github.io/publication/2019-06-30-jeps-paper)</b> <br>Giovanni Colavizza & <b>Matteo Romanello</b> <i>JEPS 4(1)</i>
+<b>[Citation Mining of Humanities Journals: The Progress to Date and the Challenges Ahead](http://mromanello.github.io/publication/2019-06-30-jeps-paper)</b> <br>Giovanni Colavizza & <b>Matteo Romanello</b>. <i>JEPS 4(1)</i>
+
+<b>[Linked Books: un indice citazionale per la storia di Venezia](http://mromanello.github.io/publication/2019-06-01-digitalia-paper)</b> <br />Giovanni Colavizza, <b>Matteo Romanello</b>, Daniela Grandin, Maria Cristina Mataloni & Andrea Giuliano. <i>DigItalia</i>
 
 Linked Books: un indice citazionale per la storia di Venezia
 
 <b>[Exploring Intertextuality in Classics through Citation Networks](http://mromanello.github.io/publication/2016-01-01-dhq-citation-networks)</b> <br>
 <b>Matteo Romanello</b>. <i>DHQ 10(2)</i>.
 
-<b>[Mining Citations, Linking Texts](https://mromanello.github.io/publication/lawdi-isaw-paper)</b> <br><b>Matteo Romanello</b> <i>ISAW Papers 7</i>
-
-<!--
-<b>[CoT: Cooperative Training for Generative Modeling](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Weinan Zhang, Yong Yu. ArXiv 2018. <i>In submission to NIPS 2018.</i>.
--->
+<b>[Mining Citations, Linking Texts](https://mromanello.github.io/publication/lawdi-isaw-paper)</b> <br><b>Matteo Romanello</b>. <i>ISAW Papers 7</i>
 
 ## NLP on Historical Texts
 
