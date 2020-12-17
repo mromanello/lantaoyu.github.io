@@ -12,8 +12,6 @@ author_profile: true
 
 <b>[Linked Books: un indice citazionale per la storia di Venezia](http://mromanello.github.io/publication/2019-06-01-digitalia-paper)</b> <br />Giovanni Colavizza, <b>Matteo Romanello</b>, Daniela Grandin, Maria Cristina Mataloni & Andrea Giuliano. <i>DigItalia</i>
 
-Linked Books: un indice citazionale per la storia di Venezia
-
 <b>[Exploring Intertextuality in Classics through Citation Networks](http://mromanello.github.io/publication/2016-01-01-dhq-citation-networks)</b> <br>
 <b>Matteo Romanello</b>. <i>DHQ 10(2)</i>.
 
@@ -21,7 +19,7 @@ Linked Books: un indice citazionale per la storia di Venezia
 
 ## NLP on Historical Texts
 
-(coming soon)
+<b>[Overview of CLEF HIPE 2020: Named Entity Recognition and Linking on Historical Newspapers](http://mromanello.github.io/publication/2020-09-15-clef2020-overview)</b> <br />Ehrmann Maud, <b>Romanello Matteo</b>, Flückiger Alex, Clematide Simon. <i>Lecture Notes in Computer Science, vol 12260</i>
 
 ## Knowledge representation
 
